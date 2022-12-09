@@ -1,24 +1,16 @@
 # AMD_Ukraine_Conflict_Market_basket_A
 
 
+On February 24, 2022, Russia invaded Ukraine, what is now known as the Russo-Ukrainian War, and this garnered international attention and sparked public conversations on social media. Twitter is one of the most popular online social networks today and one of the main sources of communication and dissemination in the online world. It has been used in the past to analyze crises in the world of politics.
 
+In this study,  we aimed to develop a scientific and consistent model the market basket analysis method was used to analyze the distribution of tweets during the event and the public's view of the situation in order to understand the Russia-Ukraine Conflict.
+Apriori Algorithm and FP Growth, two of the most commonly used market basket analyses , are used.The results obtained from the models were compared and tested.
 
+In Project we downloaded data from Kaggle.
 
+Data preparation and analyses file are below.
 
-userid: unique number given to each user
-username: user-defined name on Twitter (e.g., @johndoe)
-acctdesc: user-made account description
-location: user-defined location information (e.g., where they are based)
-following: number of users the author of the tweet is following
-followers: number of users following the author of the tweet
-totaltweets: total number of tweets by the author of the tweet
-usercreatedts: timestamp of when the user account was created
-tweetid unique number given to each tweet
-tweetcreatedts: timestamp of when the tweet was made
-retweetcount: number of times the tweet was retweeted
-text: text/content of the tweet
-hashtags: hashtags in the tweet
-language: language code of the tweet
-coordinates: user-defined coordinates at the time of tweeting
-favorite_count: numbere of times the tweet was favorited
-extractedts: timestamp of when the tweet was extracted
+FP_Growth Algorithm_MDA_Project.ipynb 
+Apiori _Algorithms _MDA_Project.ipynb 
+
+Urban_Sound_Classification_with_Neural_Networks_Report_Fatma_ER_967585 is project report.
