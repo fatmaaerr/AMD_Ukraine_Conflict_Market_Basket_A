@@ -13,4 +13,4 @@ Data preparation and analyses file are below.
 FP_Growth Algorithm_MDA_Project.ipynb 
 Apiori _Algorithms _MDA_Project.ipynb 
 
-Urban_Sound_Classification_with_Neural_Networks_Report_Fatma_ER_967585 is project report.
+Algorithms_for_Massive_Data_Market_Basket_Analysis_Ukraine_Conflict_Fatma_ER_967585 is project report.
